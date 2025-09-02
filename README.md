@@ -51,3 +51,31 @@ Challenges encountered while building the app:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## App Brainstorming
+
+**1. Strava** (Sports/Tracking)  
+- Tracks runs, bike rides, and workouts with detailed metrics  
+- Social features: share workouts, join challenges, and compare performance with friends  
+- Leaderboards and segments for friendly competition  
+
+**2. NBA App** (Sports/Entertainment)  
+- Live game updates, highlights, and stats in real time  
+- Personalized notifications for favorite teams and players  
+- Interactive features like polls, quizzes, and fantasy integration  
+
+**3. Overwolf** (Gaming/Overlay Platform)  
+- In-game overlays for stats, guides, and live streaming tools  
+- Integrates with multiple games to provide real-time tracking and notifications  
+- Community apps for tournaments and leaderboards  
+
+**4. Notion** (Productivity/Organization)  
+- Fully customizable workspace for notes, projects, and databases  
+- Drag-and-drop content organization with templates and widgets  
+- Real-time collaboration with teammates  
+
+**5. Zwift** (Sports/Gaming Hybrid)  
+- Gamified cycling and running experience indoors  
+- Multiplayer virtual worlds where users can train and compete together  
+- Real-time stats, leaderboards, and interactive courses  
+
